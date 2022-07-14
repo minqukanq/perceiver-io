@@ -35,4 +35,3 @@ class PerceiverIO(nn.Module):
             query_mask=query_mask
         )
         return outputs
-

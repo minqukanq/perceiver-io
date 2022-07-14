@@ -136,13 +136,3 @@ class CrossAttention(nn.Module):
         x_q = self.q_norm(x_q)
         x_kv = self.kv_norm(x_kv)
         return self.attention(x_q, x_kv, attention_mask=attention_mask)
-
-
-
-        
-
-
-
-
-        
-        

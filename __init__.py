@@ -36,4 +36,3 @@ if __name__ == '__main__':
     out = perceiver(inputs, query)
     print(out)
     print(out.shape)
-    
