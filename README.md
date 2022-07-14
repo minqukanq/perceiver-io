@@ -18,7 +18,7 @@ from perceiver.perceiver import PerceiverIO
 >>> decoder_query_dim = 768
 
 >>> encoder = PerceiverEncoder(
-	input_dim=input_dim,
+    input_dim=input_dim,
     latent_num=latent_num,
     latent_dim=latent_dim,
     cross_attn_heads=8,
@@ -28,7 +28,7 @@ from perceiver.perceiver import PerceiverIO
 )
 
 >>> decoder = PerceiverDecoder(
-	q_dim=decoder_query_dim,
+    q_dim=decoder_query_dim,
     latent_dim=latent_dim,
 )
 
