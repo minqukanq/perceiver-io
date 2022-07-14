@@ -1,3 +1,9 @@
+Perceiver IO model implemented with Pytorch
+
+[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+
+## Quick Tour
+
 ```python
 import torch
 
@@ -42,3 +48,5 @@ tensor([[[ 0.9805, -0.6844,  1.3075,  ..., -0.9096,  0.6698, -0.5749],
          [ 0.8611, -1.0659, -1.1967,  ...,  0.3491, -0.2891,  1.9208]]])
 ```
 
+## Authors
+* Mingu Kang - [Github](https://github.com/minqukanq)
