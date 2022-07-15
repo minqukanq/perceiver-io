@@ -3,7 +3,7 @@ Perceiver IO model implemented with Pytorch
 [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
 
 <div align="center">
-  <img width="800" alt="perceiverio" src="https://user-images.githubusercontent.com/26805817/179248187-cb439069-6573-429e-bfff-70a67cbefff3.png">
+  <img width="700" alt="perceiverio" src="https://user-images.githubusercontent.com/26805817/179248187-cb439069-6573-429e-bfff-70a67cbefff3.png">
 </div>
 
 ## Quick Tour
