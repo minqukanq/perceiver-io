@@ -28,7 +28,7 @@ from perceiver.perceiver import PerceiverIO
     cross_attn_heads=8,
     self_attn_heads=8,
     num_self_attn_per_block=6,
-    num_self_attn_blocks=1
+    num_self_attn_blocks=1,
 )
 
 >>> decoder = PerceiverDecoder(
